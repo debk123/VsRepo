@@ -1,0 +1,7 @@
+D:\simpleApp\DAtaApp\UILayer\bin\Debug\UILayer.exe.config
+D:\simpleApp\DAtaApp\UILayer\bin\Debug\UILayer.exe
+D:\simpleApp\DAtaApp\UILayer\bin\Debug\UILayer.pdb
+D:\simpleApp\DAtaApp\UILayer\obj\Debug\UILayer.csproj.AssemblyReference.cache
+D:\simpleApp\DAtaApp\UILayer\obj\Debug\UILayer.csproj.CoreCompileInputs.cache
+D:\simpleApp\DAtaApp\UILayer\obj\Debug\UILayer.exe
+D:\simpleApp\DAtaApp\UILayer\obj\Debug\UILayer.pdb
