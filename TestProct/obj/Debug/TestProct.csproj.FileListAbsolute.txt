@@ -1,0 +1,17 @@
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\TestProct.dll
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\TestProct.pdb
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\UILayer.exe
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\UILayer.pdb
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\UILayer.exe.config
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\simpleApp\DAtaApp\TestProct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\simpleApp\DAtaApp\TestProct\obj\Debug\TestProct.csproj.AssemblyReference.cache
+D:\simpleApp\DAtaApp\TestProct\obj\Debug\TestProct.csproj.CoreCompileInputs.cache
+D:\simpleApp\DAtaApp\TestProct\obj\Debug\TestProct.csproj.CopyComplete
+D:\simpleApp\DAtaApp\TestProct\obj\Debug\TestProct.dll
+D:\simpleApp\DAtaApp\TestProct\obj\Debug\TestProct.pdb
